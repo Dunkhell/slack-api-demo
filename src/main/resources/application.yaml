@@ -17,5 +17,5 @@ server:
   port: 3000
 secret:
   token:
-    bot-oauth: xoxb-3269430670614-3269535316726-Kbc84GLuKYd7cbUMds9HI7dP
-    user-oauth: xoxp-3269430670614-3276080348819-3266887577927-b225649bacb357e95ec6d57a31d1a427
+    bot-oauth: xoxb-
+    user-oauth: xoxp-
